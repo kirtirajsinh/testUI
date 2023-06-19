@@ -1,0 +1,80 @@
+[
+  {
+    "name": "To Do",
+    "items": [
+      {
+        "id": 3,
+        "priority": 0,
+        "title": "Brainstorming",
+        "desc": "Brainstorming brings team members' diverse experience into play.",
+        "files": 0,
+        "comments": 12,
+        "assignees": ["./img/user1.png", "./img/user2.png", "./img/user3.png"]
+      },
+      {
+        "id": 9,
+        "priority": 1,
+        "title": "Research",
+        "desc": "User research helps you to create an optimal product for users.",
+        "files": 5,
+        "comments": 2,
+        "assignees": ["./img/user5.png", "./img/user6.png"]
+      },
+      {
+        "id": 10,
+        "priority": 1,
+        "title": "Wireframes",
+        "desc": "Low fidelity wireframes include the most basic content and visuals.",
+        "files": 5,
+        "comments": 2,
+        "assignees": ["./img/user1.png", "./img/user2.png", "./img/user3.png"]
+      }
+    ]
+  },
+  {
+    "name": "On Progress",
+    "items": [
+      {
+        "id": 4,
+        "priority": 1,
+        "title": "Moodboard",
+        "files": 13,
+        "img": "./img/mood.png",
+        "comments": 2,
+        "assignees": ["./img/user1.png", "./img/user2.png", "./img/user3.png"]
+      },
+      {
+        "id": 5,
+        "priority": 0,
+        "title": "Onboarding Illustrations ",
+        "files": 15,
+        "comments": 14,
+        "img": "./img/flower.png",
+        "assignees": ["./img/user1.png"]
+      }
+    ]
+  },
+  {
+    "name": "Done",
+    "items": [
+      {
+        "id": 6,
+        "priority": 2,
+        "title": "Mobile App Design",
+        "files": 15,
+        "img": "./img/blog.png",
+        "comments": 12,
+        "assignees": ["./img/user5.png", "./img/user6.png"]
+      },
+      {
+        "id": 7,
+        "priority": 2,
+        "title": "Design System",
+        "desc": "It just needs to adapt the UI from what you did before ",
+        "files": 15,
+        "comments": 12,
+        "assignees": ["./img/user1.png", "./img/user2.png", "./img/user3.png"]
+      }
+    ]
+  }
+]
